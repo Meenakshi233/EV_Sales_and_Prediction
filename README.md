@@ -59,6 +59,9 @@ This project analyzes and predicts the sales of Electric Vehicles (EVs) across v
 
  **Best Model**: **Random Forest Regressor**
 
+
+![Results](model_results.png)
+
 ---
 
 ##  Visualizations
