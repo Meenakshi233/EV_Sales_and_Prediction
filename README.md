@@ -12,7 +12,7 @@ This project analyzes and predicts the sales of Electric Vehicles (EVs) across v
 |-----------------------------|------------|
 | **Total EV Sales**          | ~3.6M   |
 | **States Covered**          | All Indian States & UTs |
-| **Number of Years** | ~11 years (2014-22)     |
+| **Number of Years** | ~11 years (2014-24)     |
 
 ---
 
