@@ -62,6 +62,9 @@ This project analyzes and predicts the sales of Electric Vehicles (EVs) across v
 
 ![Results](model_results.png)
 
+
+![ActualVsPredicted](actual_vs_predicted.png)
+
 ---
 
 ##  Visualizations
