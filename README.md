@@ -72,8 +72,8 @@ This project analyzes and predicts the sales of Electric Vehicles (EVs) across v
 - **Bar Charts**: 
   - EV sales by vehicle category
   - EV sales by vehicle type
-- **Line Chart** *(if done)*: 
-  - EV sales trend across states or other numeric feature
+- **Line Chart**: 
+  - EV sales trend date-wise
 
 ---
 
